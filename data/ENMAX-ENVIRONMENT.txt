@@ -1,0 +1,1151 @@
+WHY IT MATTERS TO ENMAX
+As a future-oriented essential electricity service
+provider, we are committed to advancing a cleaner
+energy future for the benefit of our customers, the
+communities we operate in and our Shareholder,
+The City of Calgary. For many years, the reduction
+of greenhouse gas (GHG) emissions has been a key
+component of our environmental protection and
+stewardship practices.
+OUR APPROACH
+ENMAX has committed to achieving net-zero scope 1
+and scope 2 GHG emissions by 2050. As a milestone
+towards achieving our net-zero vision, we plan to reduce
+or offset 70 per cent of our scope 1 and scope 2 GHG
+emissions by 2030 from a 2015 baseline. To reach these
+targets, we are identifying efficiencies at our natural gas
+power generation facilities, offsetting and managing
+emissions from our corporate and operational buildings,
+and advancing the electrification of our mobile fleet.
+Evolving our generation portfolio
+We have already achieved significant emissions
+reductions over the past decade due to the transition of
+our power generation portfolio. When compared to our
+2015 baseline, we have reduced the GHG emissions by
+66 per cent. Today, we hold no coal‐fired generation in
+our portfolio, and our power generation facilities are
+a combination of modern natural gas-fuelled power
+generation facilities and wind facilities.
+GHG emissions across our business
+Today, the vast majority of our GHG emissions
+come from our natural gas power generation facilities.
+Our primary source of GHG emissions is natural gas
+combustion at these plants, followed by a smaller
+proportion originating from natural gas and electricity
+consumption at our corporate and operational buildings,
+together with fuel combustion within our mobile fleet
+(see table at right).
+2021 HIGHLIGHTS
+→ Completed a turbine upgrade and maintenance event at Shepard
+Energy Centre that added 11 new megawatts (MW) of generation.
+→ Met our target to offset 100% of our building GHG emissions
+(scope 1 and scope 2) for 2021.
+GHG emissions
+GHG EMISSIONS (SCOPE 1 AND SCOPE 2)
+CONTRIBUTIONS BY EACH BUSINESS 2021
+Power generation 99%
+Operational and corporate buildings 0.9%
+Mobile fleet 0.1%
+OUR PERFORMANCE
+2015 2021
+51%
+natural gas
+86%
+natural gas
+9%
+renewables
+14%
+renewables
+40%
+coal
+Our largest power generation facility, Shepard
+Energy Centre, is the most efficient natural
+gas-fuelled combined-cycle generation facility
+operating in Canada today, as measured by
+tonnes of CO₂ per megawatt hour (MWh).
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+16
+ENVIRONMENT
+PROGRESS IN 2021
+We are taking the following steps toward achieving
+our GHG emissions reduction target:
+Efficiency improvements at our natural
+gas power generation facilities
+While natural gas is one of the lowest carbon emitting
+fossil fuel options available for power generation,
+we are proactively working to find efficiencies and
+incremental improvements that further reduce our
+GHG emissions intensity.
+HYBRID ELECTRIC GAS TURBINE COMMISSIONED
+In May 2021, we commissioned Canada’s first hybrid
+electric gas turbine at our Crossfield Energy Centre.
+By combining a new battery energy storage system
+with our existing natural gas-fuelled turbine, the hybrid
+asset allows us to provide standby power (spinning
+reserve) without producing emissions from natural gas
+generation. When a grid operator requests the standby
+power, the battery provides the initial supply while the
+turbine ramps up to meet the longer duration demand.
+Since the unit went into use, it has avoided the
+generation of more than 31,000 tonnes carbon dioxide
+equivalent (CO₂e) that would have been emitted if
+those power dispatches had been provided by the
+non-hybridized natural gas turbine. ENMAX is leading
+the way in adopting and implementing this technology
+for the first time in Canada.
+In 2021, our Generation Fleet Efficiency
+Program was recognized in Electricity
+Canada's (formerly known as the
+Canadian Electricity Association)
+Centre of Excellence.
+TURBINE UPGRADES
+As part of our ongoing efforts to improve operational
+efficiencies, we completed a turbine upgrade and
+maintenance event in 2021 at Shepard Energy Centre
+that added 11 new megawatts (MW) of generation
+capacity while recovering an additional 6 MW. This
+further increased the efficiency at Shepard—already
+one of Canada's most efficient combined-cycle
+facilities. A similar upgrade and maintenance event
+is planned for our Calgary Energy Centre in 2022.
+STEAM TEMPERATURE EFFICIENCY
+At our Calgary Energy Centre, we completed a project
+to increase steam cycle temperatures. This collaboration
+between a number of vendors and our multidisciplinary
+team optimized this operational process. The project
+resulted in additional facility output and an overall
+efficiency improvement. Efficiency improvements
+translate directly into less natural gas burn required
+and reduced GHG emissions.
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+17
+ENVIRONMENT
+Offsetting and managing emissions
+from our buildings
+ENMAX currently owns or leases six office and
+operational buildings in Alberta and 157 substations
+across Alberta and Maine. As part of our commitment
+to reducing our emissions from buildings, we continue
+to invest in:
+OFFSETTING OUR BUILDING EMISSIONS
+ENMAX has been purchasing ECOLOGO® certified
+renewable energy certificates for the past 10 years
+to offset 100 per cent of ENMAX Place (head office)
+scope 2 GHG emissions. In 2020, we set a target to
+offset 100 per cent of our building GHG emissions
+(scope 1 and scope 2) from 2021 onwards. In alignment
+with our target ENMAX purchased ECOLOGO®
+certified renewable energy certificates and voluntary
+carbon offsets for our 2020 building emissions
+inventory to support this commitment. Offset
+purchases for 2021 will be finalized in Q3 2022.
+SUBSTATIONS MONITORING
+Sulfur hexafluoride (SF₆) is a gas used as an
+electrical insulator in high-voltage switchgear found
+in substations. Since SF₆ is a powerful GHG, ENMAX
+Power closely monitors and reports all SF₆ releases
+and has stringent SF₆ management practices in place.
+Since 79 per cent of ENMAX Power substations have
+SF₆ gas insulated breakers, this gas is monitored
+by automated alarms and investigated by crews
+immediately. Any gas loss is documented as part
+of our regular inspection and reporting process.
+Additionally, we proactively replace seals to lower the
+probability of SF₆ leaks from equipment and closely
+follow industry research to explore alternatives to
+SF₆ gas. Versant Power assets include 117 substations.
+Only 35 per cent of those substations have breakers
+with SF₆. Versant Power maintains strict control
+measures to closely manage SF₆ gas releases from
+its substations and replaces breakers when possible.
+Electrifying our mobile fleet
+We have a mobile fleet of 348 vehicles in Alberta that
+are primarily used to allow our crews to inspect, maintain
+and repair our transmission and distribution lines,
+several substations and control centres. Some of these
+vehicles are also used by our meter readers, community
+investment team members and for other corporate
+services. Of this mobile fleet, approximately 39 per cent
+of vehicles are light duty, 39 per cent medium duty and
+23 per cent heavy duty. Last year, we announced our
+aspirational goal to electrify 100 per cent of our mobile
+fleet by 2030. As a milestone, we set an interim target to
+electrify 35 per cent of our mobile fleet by 2025. Despite
+some challenges related to market availability of electric
+vehicles (EVs) (arising from pandemic-related global
+supply chain and labour shortages, among other issues)
+and components (chip shortages), we advanced toward
+these targets by:
+MOBILE FLEET ELECTRIFICATION PLAN
+We developed a three-year mobile fleet electrification
+plan that includes our investment in both asset
+replacement and charging infrastructure. The document
+outlines our phased approach and intended annual
+progress toward achieving our 2025 electrification
+target. The plan will be reviewed annually and updated
+as technology and market conditions change.
+TESTING NEW TECHNOLOGY
+For our medium-duty mobile fleet, we field-tested an
+Electric Power Takeoff (e-PTO). An e-PTO combines a
+battery pack, electric motor and hydraulic pump that
+can raise and lower the boom on a work truck without
+using diesel. Using e-PTOs would reduce mobile fleet
+emissions (as well as noise on the job site) since they
+run on battery power rather than idling the truck’s
+diesel engine.
+ADVANCING OUR MOBILE FLEET ELECTRIFICATION PILOT
+We entered the second year of our demonstration project
+to test EV technology on two medium-duty trucks within
+our mobile fleet. Read more on the next page.
+GHG EMISSIONS (EQUITY)
+kilotonnes of CO₂e | tonnes CO₂/MWh
+While our emissions intensity remains unchanged over the past four
+years, our absolute emissions have increased by 24 per cent since
+2017. Absolute GHG emissions are directly correlated with the degree
+of utilization of our assets and our natural gas facilities have very high
+utilization rates.
+Notes:
+In 2020, we changed the method of consolidation of our GHG emissions. Before
+this, we reported 100 per cent of the GHG emissions from the facilities we operated,
+regardless of financial ownership (operational control approach under the GHG
+Protocol). We have now switched to the equity approach to better reflect financial
+risks and rewards. Our target baseline (2015) and all data in this chart has been
+restated using the equity approach.
+Our GHG emissions are composed predominantly of CO₂. While we include SF₆ in
+our GHG emissions, it represents less than one per cent of our scope 1 emissions.
+Emissions from our substations include all SF₆ releases but only a portion of electricity
+and natural gas combustion, since not all substations are directly metered.
+This data excludes Versant Power. The primary source of Versant Power’s GHG
+emissions is gas and diesel combustion from its mobile fleet. The company’s mobile
+fleet includes 140 smaller-class vehicles and approximately 120 medium- and
+heavy-duty vehicles.
+OUR PERFORMANCE
+4,500
+2017 2018 2019 2020
+Scope 1 Scope 2 GHG intensity
+0 0.00
+0.40
+0.36
+17.7
+14.0 13.6 24.9 24.0
+2,514 2,885 2,905 2,975 3,125
+0.37 0.37
+0.35
+0.37
+2021
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+18
+ENVIRONMENT
+Recognized as an important part of global
+decarbonization, vehicle electrification is rapidly
+gaining momentum as electric vehicle (EV) technology
+continues to advance and build future market
+demand. At ENMAX, we are working towards the full
+electrification of our mobile fleet by 2030. Adopting
+EVs into our mobile fleet not only reduces GHG
+emissions—it also demonstrates the viability of EVs in
+industrial applications and Calgary’s weather conditions
+and allows us to better understand the impact of
+transportation electrification on our electricity system.
+A key way we are progressing toward our target is by
+advancing our medium-duty mobile fleet electrification
+pilot. Initiated in 2019 with funding from Emissions
+Reductions Alberta, the demonstration project—the
+first of its kind in Canada—is testing two medium-duty
+(under 10,000 pounds) fully-electric work trucks within
+our mobile fleet. The project could see mobile fleet fuel
+consumption reduced by an estimated 4,300 litres of
+diesel per vehicle annually.
+Pilot moves to phase two
+In the initial phase of the pilot, the truck chassis and
+body were built and delivered in spring 2022. In early
+fall 2021, we also installed and put into service two
+charging stations at our South Service Centre to help
+us track the performance and usage of the battery and
+charging infrastructure.
+In the second phase of the pilot (now underway)
+the trucks were fully assembled, delivered to ENMAX,
+and put directly into operational duty in April 2022.
+As the trucks are being used, we are analyzing their
+capacity and performance in various conditions. This
+includes driving the vehicles in extreme temperatures
+to determine the effects on range, testing how long
+the battery lasts with tools in use, and taking trips on
+less than a full charge.
+As the pilot progresses, we will continue to actively
+engage with suppliers, other utilities and vehicle
+manufacturers to support the development of the
+specialized EVs needed to meet our goals.
+Our plan for mobile fleet electrification,
+which includes our medium-duty pilot,
+was recognized in Electricity Canada's
+Centre of Excellence in 2021.
+SPOTLIGHT
+Medium-duty pilot advances
+mobile fleet electrification
+One of the two medium-duty fully-electric work
+trucks we are testing within our mobile fleet.
+ENVIRONMENT
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT
+19
+CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+Customer emissions
+As part of our essential role in the energy transition,
+we are committed to first reducing our own impacts
+and working to help reduce our customers’ emissions
+and costs related to energy consumption over time.
+In our interactions with customers, we will continue to
+help them better understand and manage their energy
+usage and support renewable energy solutions that
+meet their needs, aspirations and expectations.
+ENERGY USE
+We offer My Energy IQ™, a free tool that provides
+information and reports that enable customers to
+make informed decisions and better manage their
+energy use. All residential and small business ENMAX
+Energy customers have convenient access to the
+My Energy IQ™ tools, reports and insights as part of
+their ENMAX Energy online account. My Energy IQ™
+enables customers to see how their home compares
+to similar homes nearby, build a customized savings
+plan, receive tips tailored to their home, see bill
+comparisons and historical use charts, learn what
+consumes the most energy in their home and how
+weather impacts consumption.
+ELECTRICITY OR NATURAL GAS GREEN ADD-ON
+ENMAX Energy offers “green add-on” selections for
+customers to pay an additional variable fee (the amount
+is chosen by the customer). For electricity consumption,
+this fee goes towards the purchase of certified
+Renewable Energy Certificates that support renewable
+energy generation, and for natural gas consumption this
+fee goes towards the purchase of carbon offsets.
+LOWER CARBON EMISSIONS HEATING
+Versant Power encourages customers to switch from
+using fossil fuels for home heating to using electric heat
+pumps. Since Maine’s grid sources about 79 per cent
+of its electricity from renewable sources such as wind,
+solar, hydroelectric and biomass, switching to heat
+pumps results in lower emissions.
+In our interactions with customers,
+we will continue to help them better
+understand and manage their energy
+usage and support renewable energy
+solutions that meet their needs,
+aspirations and expectations.
+SOLAR INSTALLATIONS
+As renewable generation continues to expand in
+Alberta, solar remains the largest source of total
+installed micro-generation capacity [under five
+megawatts (MW) in size] at 112 MW as at the end of
+2021¹ and ENMAX Energy continues to maintain our
+position as one of Alberta’s leading micro-generation
+solar installers and retailers with more than 37 MW
+installed to date. To continue to offer valuable and
+requested services for our customers, and in response
+to market drivers, ENMAX Energy will be relaunching
+our residential and small commercial solar program in
+2022. The rooftop solar program will offer competitive
+pricing and end-to-end customer service through
+ENMAX Energy. To meet the increasing demand from
+our larger customers to help meet their ESG goals,
+we are also exploring renewable electricity sale
+agreements from utility-scale solar projects.
+On a larger scale, customers in municipalities
+across Alberta have partnered with ENMAX for
+their solar needs, including 18 MW of installed solar
+at 58 locations such as Calgary’s Shepard Solar Park,
+Bearspaw Water Treatment Plant and Southland
+Leisure Centre, to name just a few. In 2021, ENMAX
+completed and energized the City of Leduc Protective
+Services’ 88.8 kilowatt (kW) rooftop array and the
+Town of Calmar Arena’s 185 kW rooftop array. Toward
+the end of 2021, ENMAX initiated the Community
+Solar Fund, providing selected Calgary community
+associations with rooftop solar installations at
+their facilities.
+There are currently 11 projects in progress (totalling
+approximately 950 kW), with an additional 15 community
+associations scheduled in 2022 and an additional
+expected ~2,200 kW of solar to be installed
+across Calgary.
+INTEGRATING DISTRIBUTED GENERATION INTO THE GRID
+Across the state of Maine, Versant Power is currently
+supporting more than 200 distributed generation
+projects through their development stages—from
+application, engineering studies, design and
+construction to establishing detailed billing. This
+involves integrating these renewable projects safely
+and efficiently within Maine’s existing grid and is an
+important part of advancing ENMAX and Versant
+Power’s shared vision of a cleaner energy future.
+¹ https://www.aeso.ca/market/market-and-system-reporting/micro-and-small-distributed-generation-reporting/
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+20
+ENVIRONMENT
+WHY IT MATTERS TO ENMAX
+Nearly every aspect of modern life relies on electricity.
+As an operator of transmission and distribution
+electricity systems, ENMAX Power is advancing
+technology solutions that will meet customer electricity
+needs today and into the future. Our electricity grid
+must continue to deliver power reliably, while enabling
+the transition to diverse energy sources, withstanding
+increasingly severe weather events and adapting to
+changing customer expectations.
+OUR APPROACH
+To provide customers with the critical and dependable
+energy they need, we manage a complex system
+of infrastructure, equipment and software. We have
+advanced our ability to predict, detect and respond to
+outages and are planning and integrating a series of
+innovative technology solutions to ensure our grid is
+prepared for the future.
+We are advancing technology solutions
+that will meet customer electricity needs
+today and into the future.
+Leveraging data analytics
+We also use predictive programs and processes to
+strengthen the reliability of our system, including:
+PLANNING FOR LOAD CAPACITY
+To support reliable service to customers, we use load
+capacity planning to identify the existing constraints
+and upcoming demands on Calgary’s electricity system
+(loads) and to verify that redundancies are in place.
+Our interactive Load Capacity Map uses an ENMAXdeveloped
+load forecasting model to help communicate
+the estimated available capacity throughout our
+distribution system. Using the map, customers can
+search for an address to quickly identify the system’s
+available capacity.
+SIMPLIFYING ACCESS TO COMPLEX DATA
+In 2021, ENMAX Power developed a System Load
+Analyzer, an automated approach to identify the
+customer load at risk under a single unplanned outage
+using software. Similar to other distribution load flow
+software, all the different parts of the system (fuses,
+voltage step-down transformers, switches, overhead
+and underground conductors) are modeled as sections.
+Nodes are used to connect sections together and to
+represent electrical information such as voltage and
+current. Incorporating a programming language, Python,
+enabled us to connect the various data sources and
+display the information in Microsoft Power BI, a tool
+already in ENMAX’s IT environment and accessible to all
+business units. The resulting platform—called the Digital
+Twin—is now used by many groups across ENMAX
+Power to view data and gain insights more efficiently.
+2021 HIGHLIGHTS
+→ Invested $4.5 million in 2021 to enable a more resilient grid.
+→ Advanced our EV smart charging pilot to understand how Calgarians
+use EVs and the potential impact on our electricity system.
+Grid reliability
+and resiliency
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+21
+ENVIRONMENT
+SPOTLIGHT
+Delivering power reliably
+Strong reliability is linked to building sufficient
+capacity across the system, but also to our ability to
+prevent, withstand and recover rapidly from system
+disruptions. We are strengthening the reliability of
+our system through:
+VISUAL INSPECTIONS
+We regularly conduct ground line visual inspections to
+provide a bottom-up look at our assets in Alberta and
+Maine. Typically, one to two inspectors complete these
+vehicle or foot patrol assessments from the road with
+binoculars and often use infrared or corona scanning
+to look for any signs of degradation. These inspections
+also include wood pole condition assessments in which
+we make a small drill hole to determine pole strength
+and whether there is any rot.
+DRONES
+In Maine, drones are increasingly being used to provide
+top-down inspections of transmission lines in right of
+ways. Versant Power has 1,270 miles of transmission
+lines, 900 of which are in a right-of-way. The drones can
+provide an extremely detailed 360-degree look at the
+assets, identifying micro-cracks in porcelain insulators,
+and collecting valuable data.
+THERMAL AND ACOUSTIC
+As electrical connections loosen there is a
+resistance to current that can cause an increase
+in temperature. In Maine, we use thermal imaging
+cameras to look for these hot spots which can cause
+components to fail. We also complete acoustic
+assessments on our transmission lines, which
+‘listen’ for devices that are slowly breaking down
+and thereby giving off radio frequency.
+TREE AND VEGETATION MANAGEMENT
+We use a combination of methods—depending on the
+voltage of the line—to provide the most effective longterm
+vegetation control, including manual tree control,
+brush mowing, tree trimming within the right-of-way
+and herbicide application. The aim is to remove danger
+trees that can impact our wires before storms take them
+down. Part of this work is to reclaim the full width of the
+right-of-way if it has become narrowed over time.
+COVERED CONDUCTOR PROGRAM
+Each year in Maine, Versant Power analyzes line
+sections (one to two miles) with low reliability metrics
+and installs covered conductors. If a tree falls on a
+bare wire, it can result in an outage. With covered
+conductors, the insulation protects the wire so there
+is no short.
+REPLACING AGING ASSETS
+Each year, certain assets undergo major maintenance
+or replacement as part of ENMAX Power and Versant
+Power’s Capital Asset Replacement Program. This
+program helps our assets run optimally and minimizes
+the occurrence of outages. Assets are prioritized based
+on condition and other risks.
+INSPECTIONS
+MAINTENANCE & REPAIRS
+22
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX ENVIRONMENT SOCIAL GOVERNANCE TCFD APPENDICES
+Measuring our reliability
+ENMAX Power is committed to delivering power
+safely and reliably. In Alberta, we operate under Alberta
+Reliability Standards—the requirements followed by
+the Alberta Electric System Operator and all electricity
+market participants in the province to maintain high
+reliability within the Alberta Interconnected Electric
+System. We deliver reliability levels that are top quartile
+in Canada (see data from Electricity Canada (EC)
+in the sidebar).
+In Maine, Versant Power has improved across all
+reliability metrics over the last few years (see table
+below). To meet increased customer expectations for
+power reliability, Versant Power currently invests more
+than $70 million USD annually (approximately $87 million
+CAD) to maintain and improve its distribution system.
+Managing and communicating
+outages
+ENMAX Power's Outage Management System
+estimates the origin of an outage in order to efficiently
+dispatch a service person to the location for restoration.
+The system also automatically identifies and posts
+outage information for customers via Twitter and on
+an integrated website map (the Calgary Outage Portal
+Map), which shows unplanned outages occurring
+real-time and within the last 24 hours.
+Minimizing the impact of outages
+Despite our best efforts, some of our customers
+experience power outages. To minimize the impact
+on our customers, we invest in:
+AUTOMATED OUTAGE RESTORATION
+To substantially reduce the duration of outages and
+the number of customers affected, approximately
+48 per cent of Calgary’s non-downtown distribution
+system uses a technology called Distribution
+Automation. This system has saved an estimated
+30 million minutes of outage time over the past
+10 years. Distribution Automation is self-healing and
+uses SCADA (supervisory control and data acquisition)
+systems to detect a fault, automatically isolate it
+and rapidly restore the system.
+INTELLIGENT DEVICES
+Similar to Distribution Automation in Alberta,
+Versant Power has installed 65 intelligent devices in
+Maine since 2019. They require no operator, and they
+automatically detect a fault, isolate it, and rapidly
+restore the system.
+SYSTEM AVERAGE INTERRUPTION DURATION INDEX (SAIDI)
+hours
+SAIDI reflects the cumulative duration (in hours) of sustained
+repair outages experienced by the average customer in a year.
+On average, our customers experience less than 30 minutes of
+power interruption during one year, while customers of EC member
+companies experience, on average, seven hours of outages per year.
+SYSTEM AVERAGE INTERRUPTION FREQUENCY INDEX (SAIFI)
+number of interruptions per customer
+SAIFI reflects the number of power outages lasting longer than five
+minutes experienced by the average customer in a year. On average,
+our customers experience fewer than one outage per year.
+RELIABILITY STATISTICS — ENMAX POWER
+2017 2018 2019 2020 2021
+0.0
+8.0
+EC member average 2016 – 2018: 7.3
+0.47 0.54 0.42 0.47 0.53
+2017 2018 2019 2020 2021
+0.0
+3.0 EC member average 2016 – 2018: 2.8
+0.64
+0.80 0.72
+0.54 0.62
+RELIABILITY STATISTICS — VERSANT POWER UNIT 2018 2019 2020 2021 CHANGE
+System Average Interruption Duration Index (SAIDI¹) hours 6.62 5.04 5.03 3.63 -45%
+System Average Interruption Frequency Index (SAIFI²) # interruptions per
+customer 2.52 1.96 2.27 1.97 -22%
+Customer Average Interruption Duration Index
+(CAIDI³), inclusive of major event days hours 2.63 2.58 2.21 1.84 -30%
+¹ SAIDI represents the total duration of a sustained interruption per average customer during a predefined period of time. A sustained interruption has a duration greater than or equal to five minutes.
+² SAIFI represents how often the average customer experiences a sustained interruption over a predefined period of time. A sustained interruption has a duration greater than or equal to five minutes.
+³ CAIDI represents the average hours of service interruption for customers who experience a service interruption. The Institute of Electrical Electronics Engineers defines a ‘sustained’ outage as one that is five minutes or longer. This is a known distinction from Canadian utilities.
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+23
+ENVIRONMENT
+PROGRESS IN 2021
+Adapting to the pace of change in our industry while
+maintaining a reliable and resilient grid requires
+innovative thinking and concerted investment. Last
+year, we set a target to invest $60 million by 2030 to
+enable a more resilient grid while maintaining our
+reliability levels. We remain dedicated to this goal and
+have allocated $4.5 million in the first year.
+Acting today to enable the grid
+of tomorrow
+We invest in innovation to make the grid more flexible,
+support lower carbon power generation and adapt to
+changing customer needs.
+TESTING SMART METER TECHNOLOGY
+ENMAX Power is running a pilot project to test smart
+meters (known as Advanced Metering Infrastructure,
+or AMI) in a few Calgary communities to improve
+our metering capability and provide customers with
+actionable insights on their energy consumption.
+Read more on page 58.
+PILOTING RESIDENTIAL BATTERY STORAGE
+ENMAX Power is working with a small number of
+customers in targeted areas of Calgary where there
+is potential for congestion on the grid. We are looking
+at ways to work with customers that have solar
+photovoltaic (PV) installations, possibly combined with
+electric vehicle charging, to install residential batteries
+so they can store that power and then either use it in
+their home or export it back to the grid.
+SUPPORTING SOLAR MICRO-GENERATION
+In 2022, we are relaunching our residential and small
+commercial solar program to support customers’
+demand for renewable power. Read more in the
+Customer Emissions section of this report.
+PREPARING FOR ELECTRIC VEHICLE ADOPTION
+Electric vehicle (EV) adoption is increasing rapidly
+and EV charging (mostly done at home or work) will
+increase electricity demand for utilities like ours. Since
+2019, we have been progressing our understanding of
+EV charging behaviours. Read more in the sidebar
+about our Charge Up pilot.
+CHARGE UP PILOT: SUPPORTING
+TRANSPORTATION ELECTRIFICATION
+EVs are no longer a distant conversation—the
+Canadian federal government has set a mandatory
+target for new light-duty cars and trucks to be zeroemission
+EVs by 2035. Adjusting the grid to this rapid
+shift requires investing in innovation like Charge Up,
+our EV charging pilot, which is helping us understand
+how Calgarians use EVs and the impact on our
+electricity system.
+Phase one of the pilot was focused on charger
+installations and baseline charging behaviour. We
+provided customer rebates for the installation of 35
+residential chargers and customers agreed to share
+their charging data with ENMAX for five years. In this
+phase, we observed that EV charge times generally
+coincide with evening peak electricity demand and
+that short duration charging is common.
+Building on these findings, we launched the second
+phase to understand the factors that influence charging
+behaviour (i.e., education and/or incentives) and to
+test smart charging, the concept of using an intelligent
+approach to decide when and where people charge
+their vehicles. We developed a randomized trial to test
+the effectiveness of smart charging using two different
+incentive structures against a control group. The trial is
+Alberta’s first smart charging program that will reward
+customers for choosing to charge at times that benefit
+the grid. We hope to use these findings to develop
+future programs that incentivize EV charging behaviour
+that optimizes the use of our distribution system.
+STORY
+WANT TO LEARN MORE?
+Click here to watch a video about
+our Charge Up pilot program.
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+24
+ENVIRONMENT
+Dedicated to meeting our customers’ changing
+needs, ENMAX is working to solve a problem impacting
+electricity grids across North America—enabling
+customers on secondary networks to export excess
+electricity back to the grid.
+A secondary network is a complex power grid with
+a web of multiple parallel sources of power to each
+customer. These specialized networks are used to
+supply electricity to high-density communities requiring
+high reliability. Within Calgary, ENMAX Power has
+four secondary networks (CF Chinook Centre, North
+Hill Centre, Westbrook Mall and the downtown core).
+Customers connected to a secondary network rarely
+experience interruptions in power, but the existing
+design of these systems does not allow customers
+who own electricity generation to export excess power
+back to the grid. Although this is done for safety and
+reliability reasons, it creates a technical barrier to
+adopting distributed generation in these areas.
+ENMAX Power is the first utility in Canada to develop
+and demonstrate a solution to this complex technical
+challenge through a multi-year project funded in part
+by Natural Resources Canada and Alberta Innovates.
+In collaboration with Cadillac Fairview (CF), the
+project will test the connection of a solar installation
+at CF Chinook Centre, the largest shopping complex
+in Calgary, onto ENMAX Power’s specialized
+secondary network to enable two-way power flow
+of renewable forms of energy.
+In April 2021, the project took an important step forward
+when we began construction of the 800 kW DC onsite
+solar installation on the CF Chinook Centre rooftop.
+Construction of the systems that allow for electricity
+export was completed in the first quarter of 2022,
+after which we began the final phase of testing and
+monitoring of the two-way power flow. The technology,
+if proven successful, will help remove technical and
+financial barriers to distributed generation, giving
+residential and commercial customers in urban settings
+more choice in how they generate and use electricity,
+while building the resiliency of the grid.
+SPOTLIGHT
+Enabling customers to export
+renewable power to the grid
+PROJECT TIMELINE
+2019 – Modelling and design
+2020 – Procurement and testing
+2021 – Procurement and construction
+2022 – Monitoring and testing
+2018 – Project planning
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT
+25
+CEO LET TER ESG SCORECARD ABOUT ENMAX ENVIRONMENT SOCIAL GOVERNANCE TCFD APPENDICES
+WHY IT MATTERS TO ENMAX
+Reliable power generation and delivery depends on
+both maintaining our assets and on restoring power
+when outages or emergencies occur. The last two
+years have intensified our resolve to enhance our
+resiliency and ensure business continuity and power
+delivery through a variety of crises.
+OUR APPROACH
+We use the internationally recognized Incident Command
+System (ICS) to manage our emergency response.
+ICS is a standardized command and control system
+used to manage emergency incidents. We maintain a
+regularly reviewed Incident Management Plan, which
+contains all emergency response plans and protocols.
+Our emergency preparedness is tailored by our power
+generation and transmission and distribution teams:
+Power generation
+Emergency preparedness at ENMAX Energy means
+ensuring our generation facility control centre, field
+and power plant employees are equipped to respond
+safely, while maintaining compliance to all legislative
+requirements of the Alberta Interconnected Electrical
+System. Our employees receive emergency response
+training as part of their operational training and during
+regular emergency exercises. Each year we conduct a
+combination of full-scale/virtual tabletop exercises, and
+pandemic-type exercises are now part of our scenarios.
+Transmission and distribution
+ENMAX Power is a partner member of the Calgary
+Emergency Management Agency (CEMA), which plans
+and coordinates emergency services and resources
+during major emergencies and disasters in Calgary. We
+participate in all their drills, exercises and preparedness
+planning, along with our neighbouring utilities. This
+collaboration supports public and staff safety, minimizes
+damage to electrical infrastructure, and allows for
+faster recovery and return to normal operations,
+resulting in less disruption to our customers. As a key
+CEMA member, we have seats at their Emergency
+Operations Centre, which opens during disasters or
+major emergencies and acts as The City of Calgary’s
+coordination centre. To test the real-time effectiveness
+of our response, we also complete one full-scale exercise
+per year with one of our closest mutual assistance
+partners, EPCOR. These exercises are multi-agency,
+multi-jurisdictional activities involving the mobilization
+of emergency personnel, equipment and resources, as
+if a real incident had occurred. Our aim is to complete
+one emergency response exercise per quarter.
+We completed 25 emergency exercises
+in 2021 and advanced our preparedness
+for extreme weather events such as
+floods and snowstorms.
+PROGRESS IN 2021
+In 2021, we completed 25 emergency exercises across
+ENMAX. The exercises included a combination of
+full-scale and/or virtual tabletop exercises at Shepard
+Energy Centre, Calgary Energy Centre and Cavalier
+Energy Centre. At Versant Power, 12 emergency
+response exercises were completed in 2021.
+Preparing for extreme weather events
+In 2021, Calgary saw both record low and record high
+temperatures and Western Canada experienced a wide
+range of extreme events including forest fires, extreme
+winds and severe floods. Although our assets were not
+significantly impacted, we dedicated time and focus
+to prepare for these types of events. During the year,
+ENMAX Power held three weather-related tabletop
+exercises, two related to flood and one simulating
+a large snowstorm. Tabletop emergency exercises
+are sessions in which team members discuss their
+roles during an emergency and their responses
+to a particular situation, with a facilitator guiding
+participants through the scenario. Our exercises
+involved representatives from field services, senior
+leadership, communications and system operations.
+Some of the learnings from these exercises included
+improvements to our ICS organizational structure to
+enable more effective two-way communication and
+providing better support to our system operators
+and trouble dispatchers to assign jobs to crews for
+secondary outages that can occur during storms.
+Emergency
+preparedness and
+crisis management
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+26
+ENVIRONMENT
+WHY IT MATTERS TO ENMAX
+We recognize water is a precious resource that must
+be used responsibly. We carefully manage our water
+withdrawals and monitor our wastewater disposal.
+OUR APPROACH
+The majority of our water use is for essential power
+generation processes—intake water is used for cooling
+purposes in cooling towers and the remainder is
+purified onsite to create steam in our combinedcycle
+power plants. Combined-cycle facilities extract
+waste heat from the gas turbine exhaust and use it to
+create high pressure steam which produces additional
+electricity when allowed to depressurize. Our water
+reduction initiatives have been focused on reducing
+facility water intensity by:
+Reducing potable water use
+We strive to minimize potable water use by using as
+much reclaimed water in our operations as practically
+possible. Reclaimed water is wastewater that has been
+processed for reuse for an additional purpose before
+passing back into the water cycle. By design, our largest
+generating facility, Shepard Energy Centre, uses 100
+per cent reclaimed water from The City of Calgary’s
+Bonnybrook Wastewater Treatment Plant for all its
+power generation needs. Each year, this saves the
+plant from having to draw nearly six million cubic
+meters (m³) of freshwater from the Bow River.
+Optimizing our water use
+We seek to optimize water use at our operated facilities
+in the following ways:
+SHEPARD ENERGY CENTRE
+While this facility already uses reclaimed water, we
+have sought to further optimize its water use. The water
+used in a power plant declines in quality each time it
+runs through the facility, where every pass through
+the cooling towers increases the concentration of
+dissolved substances. After three years of research,
+observation and innovative lab testing, we found the
+optimal operating efficiency of the cooling towers.
+This work, which was recognized by Electricity Canada,
+has increased the reuse cycles from 3.5 to 5, while still
+maintaining all cooling water chemistry within required
+concentration limits. This initiative has reduced the
+plant’s annual wastewater volume by 24 to 28 per cent
+(compared to 2017 values) and reduces wastewater
+discharged by 450,000 m³ each year.
+CALGARY ENERGY CENTRE
+We examined our water use at this facility and
+determined that the plant is already optimizing its water
+use to the extent possible with existing technology.
+CAVALIER ENERGY CENTRE
+This facility is located just east of Strathmore and gets its
+water from an irrigation canal connected to the Bow River.
+While using water from this source presents challenges
+due to source water quality, Cavalier uses a complex
+process to recycle and treat water at a very high rate of
+efficiency, leaving very little that cannot be recycled.
+Water quality
+We comply with all City of Calgary bylaw requirements
+for wastewater disposal in Calgary, which applies to
+Shepard Energy Centre and Calgary Energy Centre.
+This includes requirements for handling, treatment
+and disposal. At Cavalier, wastewater is reused to
+a point where it can no longer be treated and is
+disposed of using deep well injection in accordance
+with provincial regulations. More than 99 per cent
+of ENMAX’s wastewater is treated at The City of
+Calgary’s wastewater treatment plants.
+Water use
+and quality WATER USE
+million m³ | m³/MWh
+Most of the water we use is non-potable and for power generation
+cooling processes.
+WATER WITHDRAWAL
+~70% of our water withdrawn is reclaimed (non-potable) water
+WATER CONSUMPTION AND DISCHARGE
+~80% of water evaporates through the cooling process
+~20% of the total volume is returned to the municipal sewer
+system after use
+~0.2% is water that can no longer be reused and is disposed
+of through deep well injection
+OUR PERFORMANCE
+2017 2018 2019 2020 2021
+Reclaimed (non-potable)
+Freshwater withdrawn
+Water consumption intensity
+0.0
+10.0
+0.00
+0.80
+0.71
+1.50 1.97 2.09 2.10 1.58
+5.62
+5.54 5.52 6.00
+5.37
+7.12 7.51 7.61
+8.11
+6.95
+0.70 0.69 0.69 0.67
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+27
+ENVIRONMENT
+WHY IT MATTERS TO ENMAX
+ENMAX Energy operates power generation facilities
+in Calgary and the surrounding urban area and takes
+its role seriously in helping to protect local air quality.
+In addition to GHG emissions, our operations generate
+other air emissions that can impact air quality.
+OUR APPROACH
+We diligently track and report air emissions from our
+power generation facilities. We are working to reduce
+these emissions by incorporating emissions reduction
+technologies, adhering to best practices and maintaining
+our commitment to continuous improvement.
+Nitrogen oxides
+We operate our facilities well below our allowable
+nitrogen oxide (NOx) levels, which are facility-based
+NOx limits granted by Alberta Environment and Parks
+(AEP) and provincial regulations. To maintain these
+emissions levels, we utilize a combination of pre and
+post combustion NOx reduction technologies at our
+natural gas-fuelled power generation facilities. Two of
+our power generation facilities use post-combustion
+exhaust gas treatment (ammonia injection) to reduce
+NOx emissions. Crossfield Energy Centre has installed
+low-NOx combustors and Cavalier Energy Centre uses
+water injection into the turbine to control NOx.
+Sulfur oxides
+Sulfur oxides (SOx) are no longer a significant source
+of our overall emissions since the termination of our
+coal-fired Power Purchase Arrangements. Our SOx
+emissions levels vary in relation to the volume of our
+power generation output (see data in the sidebar).
+Partnerships to protect air quality
+We participate as an industry member of the Clean Air
+Strategic Alliance (CASA) and Calgary Region Airshed
+Zone (CRAZ) to represent our power generation assets.
+CASA is a multi-stakeholder partnership created to
+help manage air quality in Alberta. The board has
+representatives from industry, government and nongovernment
+organizations. CRAZ monitors, analyzes,
+and provides information on air quality and develops
+strategies to manage air quality issues within the
+Calgary Region Airshed Zone.
+Air quality
+NOx EMISSIONS
+tonnes | kg/MWh
+We maintain NOx emissions levels from our power generation facilities
+well below our allowable NOx levels. However, to reduce excessive
+wear on equipment, we have had to reduce ammonia injection (one of
+our NOx reduction methods) and, therefore, have seen an increase in
+absolute NOx emissions levels when compared to previous years.
+We generate other air emissions in smaller quantities and while there
+are no operational approval limits attached to these emissions, ENMAX
+tracks these quantities annually.
+OTHER AIR
+EMISSIONS (TONNES) 2017 2017 2019 2020 2021
+SOx 13 16 16 17 13
+Particulate matter (PM₁₀) 25 14 15 15 12
+Note: Air emissions data includes only our power generation assets over which we
+have operational control.
+OUR PERFORMANCE
+NOx emissions from natural gas-fuelled power generation
+2017 2018 2019 2020 2021
+Aggregated approved NOx emissions
+NOx Intensity
+0
+8,000
+1,203
+1,657 1,612
+1,926 2,102
+0.26
+0.23
+0.25
+0.27
+0.24
+0.0
+0.3
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+28
+ENVIRONMENT
+WHY IT MATTERS TO ENMAX
+Environmental protection and stewardship are integral
+components of our strategy embedded across all
+aspects of our business. We endeavour to provide
+environmentally responsible energy solutions to the
+communities we serve.
+OUR APPROACH
+At ENMAX, we conduct our business with respect
+for living species and the land around our operations.
+We have an established environmental management
+system, clear data collection and reporting processes,
+and strong internal procedures to manage our
+environmental risks. Our environmental management
+system is modeled after ISO 14001:2015, an international
+standard for environmental management.
+Land stewardship
+ENMAX Power operates over 38,000 distribution pad
+mounted transformers, 113 high voltage substation
+power transformers and 43 substations. While we
+continually work to prevent spills in our daily operations,
+we do experience some releases. In 2021, we had
+three significant¹ transformer spills. Two distribution
+transformer spills, one caused by third-party damage
+and one as a result of a faulty drain valve. The third
+spill involved a substation transformer release due to
+a radiator fin failure. Some of the ways we are working
+to reduce spills and improve our land stewardship
+practices include:
+PROACTIVE SPILL PREVENTION AND RESPONSE
+We have established routine inspection programs
+to assess the health and condition of our generation,
+distribution and transmission equipment. As part of
+the inspection program, the assessment of oil-filled
+equipment is critical as leaks can lead to equipment
+failure, electrical outages, and costly site clean-up and/
+or remediation. When minor leaks are identified, we
+increase inspection frequency to allow for ongoing
+monitoring and assessment of the equipment’s leak
+severity. In instances where a leak condition progresses
+or a major leak or equipment damage is identified, we
+schedule the repair or replacement of the equipment,
+including any site clean-up or remediation required.
+We also have spill response and reporting procedures
+in place to address spills due to equipment failure,
+including damage and releases caused by third parties.
+HYDROVAC SLURRY MANAGEMENT
+We use hydro vacuum excavation, or hydrovac, to
+safely excavate around buried cables that need repairs.
+Hydrovac uses high-pressure water to loosen the soil
+and dig a hole. The muddy excavated material, or slurry,
+is then suctioned into a tank mounted on a specialized
+truck and taken to a designated facility. Although a
+common industry practice, new regulatory guidance
+has highlighted additional required environmental
+considerations. In 2021, ENMAX completed significant
+refining of our processes around pre-characterizing
+soils prior to hydrovac excavation. By clearly identifying
+contaminants in soil, we can determine the best means
+of disposal or potential for reuse.
+GOATS PROVIDE NATURAL WEED CONTROL
+In June 2021, our Cavalier Energy Centre hosted
+270 goats to graze on weeds as a means of
+environmentally friendly weed control. Goats can
+safely eat noxious weeds and help regenerate the
+soil by aerating, mulching, and fertilizing.
+The herd from Goats for Weeds returned to Cavalier
+for a second go-round later in the summer. After
+repeat visits at our facility, the weed management
+program with the herd will shift from initial clearing to
+basic maintenance, saving time, money, and reducing
+environmental impact compared to traditional
+herbicide treatments.
+¹ A significant spill is defined as more than 500 litres, in alignment with industry standards (including Electricity Canada).
+Land and
+biodiversity
+STORY
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
+29
+ENVIRONMENT
+Protecting biodiversity
+Birds often use power poles or substation equipment
+for perching, roosting and nesting. Birds may also nest
+in areas where project or maintenance work will be
+carried out. Across our operations, ENMAX works to
+protect birds while helping to ensure the reliability of
+our services by identifying high-risk areas, conducting
+nest sweeps prior to work, and delaying work to
+accommodate nesting periods.
+PREVENTING DISTURBANCE TO NESTING BIRDS
+To avoid disturbing avian nesting and breeding habitat
+we regularly perform nest sweeps prior to project
+work. Nest sweeps involve a search of the immediate
+area by trained biologists to look for breeding birds
+and nests. After completing a sweep, if nesting birds
+are discovered, we identify locations where we can
+complete our work without disruption to the birds
+and we relocate our crews to these areas. In 2021, we
+completed several sweeps as part of our work on the
+Calgary Ring Road project. Many different nesting sites
+were identified and we were able to accommodate the
+nesting period without any incidents.
+Across our operations, we work to
+protect birds while helping to ensure
+the reliability of our services.
+NESTING PLATFORMS
+In Maine, around coastal areas, ospreys tend to build
+nests at the top of utility poles, which presents a danger
+to the birds and raises the risk of disruptions to electric
+service. After a 2020 incident when an osprey built a nest
+on a utility pole in Lamoine, Versant Power crews wanted
+to prevent a future safety risk to the birds as well as
+the public. As a result, Versant employees designed
+and built an alternate osprey nesting platform close by.
+The platform was built with osprey preferences in mind
+and required Versant’s environmental team as well as
+the expertise of outside environmental groups, including
+the Maine Department of Inland Fisheries and Wildlife.
+Because ospreys like to be at the tallest point above
+the water, Versant crews replaced an existing utility
+pole with a taller one. Crews installed a square platform
+with no coverings, as the birds prefer to look down and
+hunt for fish below without any obstructions overhead.
+The osprey camera (powered by EarthCam) is powered
+entirely by solar energy and is situated on a newly built
+osprey platform overlooking the Mud Creek.
+As Calgary has several fish-bearing waterbodies,
+osprey are common and ENMAX maintains and
+monitors 17 nesting platforms to provide safe places
+for osprey to nest.
+ENMAX 2021
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT CEO LET TER ESG SCORECARD ABOUT ENMAX SOCIAL GOVERNANCE TCFD APPENDICES
